@@ -10,6 +10,8 @@ public class exp2 {
 		System.out.println("STARS");
 		System.out.println("whassap");
 		System.out.println("nigga chu");
+		System.out.println("STARS");
+
 
 	}
 
