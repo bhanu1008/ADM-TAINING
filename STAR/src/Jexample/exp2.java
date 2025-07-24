@@ -8,6 +8,8 @@ public class exp2 {
 
 	public static void main(String[] args) {
 		System.out.println("STARS");
+		System.out.println("whassap");
+		System.out.println("nigga chu");
 
 	}
 
